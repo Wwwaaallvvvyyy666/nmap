@@ -1,6 +1,7 @@
 Nmap [![Build Status](https://github.com/nmap/nmap/actions/workflows/build.yml/badge.svg)](https://github.com/nmap/nmap/actions/workflows/build.yml)
 ====
 
+
 Nmap is released under a custom license, which is based on (but not compatible
 with) GPLv2. The Nmap license allows free usage by end users, and we also offer
 a commercial license for companies that wish to redistribute Nmap technology
